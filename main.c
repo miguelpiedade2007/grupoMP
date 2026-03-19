@@ -2,5 +2,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Rafael Zani Gizzi");
+    printf("Rafael Zani Gizzi\n");
+    printf("Migeul Piedade");
 }
